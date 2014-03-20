@@ -1,0 +1,108 @@
+ls
+python 2.py
+ls
+wget --help
+python 2.py
+ls
+ls
+cd DR
+ls
+wget -i download.txt
+wget http://ieeexplore.ieee.org/ielx5/5577387/5588047/05589597.pdf
+wget http://ieeexplore.ieee.org/search/searchresult.jsp?queryText=demand+response&rowsPerPage=100&pageNumber=1&resultAction=ROWS_PER_PAGE
+ls
+ls
+latex
+python
+python
+ssl
+ls
+cd ..
+ls
+cd ~
+ls
+cd Documents
+ls
+cd ..
+ls
+cd Applications
+ls
+ls
+cd ~
+ls
+cd Documents
+ls
+cd Courses
+ls
+cd ECEN689
+ls
+cd HW2/Simplex
+ls
+cd simplex-master
+ls
+ls
+python simplex.py
+pydoc
+pydoc __future__
+cd ..
+ls
+python simplex.py
+python simplex.py
+ls
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+ls
+ls
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+pivot row: 4
+pivot row: 4
+python simplex.py
+3
+python
+python simplex.py
+pivot column: 4
+pivot column: 4
+python simplex.py
+[ 0.  1.  0.  0.  0.  1.  3.]]
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+ls
+ls
+python simplex.py
+python simplex.py
+python
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python simplex.py
+python 
+ls
+python simplex.py
+ls
+ls
+python PA1.py
+python PA1.py
+python PA1.py
+python PA1.py
+python PA1.py
+python PA1.py

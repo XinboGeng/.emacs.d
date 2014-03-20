@@ -1,0 +1,634 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Mar 17 20:03:38 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq extended-command-history nil)
+(setq file-name-history '("~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex" "~/GitHub/Lacrimarum.github.io/_config.yml" "~/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex" "~/GitHub/CSEN420/PA1/PA1.py" "~/GitHub/xinbogeng.github.com/_config.yml" "~/GitHub/xinbogeng.github.com/index.html" "~/GitHub/LaTeX/Templates/presentation/slides-template.tex" "~/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex" "~/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex" "~/GitHub/Academic/list.md" "~/GitHub/xinbogeng.github.com/_posts/2011-06-04-‘ÉË‘ÐÄ‘Õß.md" "~/GitHub/xinbogeng.github.com/_layouts/post.html" "~/GitHub/xinbogeng.github.com/about/index.html" "~/GitHub/xinbogeng.github.com/_posts/2014-03-06-Reading-List.md" "~/GitHub/xinbogeng.github.com/_layouts/default.html" "~/GitHub/xinbogeng.github.com/Academic.html" "~/Bitbucket/Research-Notes/overview-storage/overview-storage.tex" "~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex" "~/GitHub/Lacrimarum.github.io/_config.yml" "~/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex" "~/GitHub/CSEN420/PA1/PA1.py" "~/GitHub/xinbogeng.github.com/_config.yml" "~/GitHub/xinbogeng.github.com/index.html" "~/GitHub/LaTeX/Templates/presentation/slides-template.tex" "~/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex" "~/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex"))
+(setq ido-last-directory-list '(("/Users/stille/Bitbucket/Research-Notes/" . "overview-storage/") ("/Users/stille/GitHub/xinbogeng.github.com/" . "_layouts/") ("/Users/stille/GitHub/Academic/" . "2014-02-Storage-Overview/") ("/Users/stille/GitHub/CSEN420/" . "PA1/") ("/Users/stille/Bitbucket/Paper-Analysis/Docs/" . "Design/") ("/Users/stille/Bitbucket/Paper-Analysis/" . "Docs/") ("/Users/stille/Bitbucket/" . "Research-Notes/") ("/Users/stille/GitHub/Homeworks/ECEN689/" . "Report/") ("/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/" . "Documents/") ("/Users/stille/GitHub/Research/Presentations/" . "org-beamer-master/") ("/Users/stille/GitHub/Research/" . "Presentations/") ("/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/" . "ERCOT-Mrkt-Rules/") ("/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/" . "Research/") ("/Users/stille/GitHub/Demand Response/Notes/" . "Meeting on 2013-Oct-8/") ("/Users/stille/GitHub/Demand Response/" . "Notes/") ("/Users/stille/GitHub/Homeworks/ECEN615/" . "Final/") ("/Users/stille/GitHub/Homeworks/" . "ECEN615/") ("/Users/stille/Dropbox/" . "FX/") ("/Users/stille/" . "Bitbucket/") ("/Users/stille/GitHub/LaTeX-Template/" . "assignment/") ("/Users/stille/GitHub/" . "xinbogeng.github.com/") ("/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/HW2/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/" . "HW2/") ("/Users/stille/Documents/Code/BS-Learning/" . "DR/") ("/Users/stille/Documents/Code/" . "BS-Learning/") ("/Users/stille/Documents/Courses/ECEN615/" . "HW1/") ("/Users/stille/Documents/Courses/" . "ECEN689/") ("/Users/stille/Documents/" . "Courses/") ("/" . "home/")))
+(setq ido-work-directory-list '("/Users/stille/Bitbucket/Research-Notes/overview-storage/" "/Users/stille/GitHub/xinbogeng.github.com/" "/Users/stille/GitHub/xinbogeng.github.com/_layouts/" "/Users/stille/GitHub/xinbogeng.github.com/about/" "/Users/stille/GitHub/xinbogeng.github.com/_posts/" "/Users/stille/GitHub/Academic/" "/Users/stille/GitHub/Academic/2014-02-Storage-Overview/" "/Users/stille/GitHub/LaTeX/Templates/presentation/" "/Users/stille/GitHub/CSEN420/PA1/" "/Users/stille/Bitbucket/Paper-Analysis/Docs/Design/" "/Users/stille/GitHub/Homeworks/ECEN615/Final/" "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/" "/Users/stille/GitHub/Homeworks/ECEN689/Report/" "/Users/stille/GitHub/Research/Presentations/" "/Users/stille/GitHub/Research/Presentations/org-beamer-master/" "/Users/stille/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/" "/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/DR_ED/" "/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/ERCOT-Mrkt-Rules/" "/Users/stille/GitHub/Homeworks/ECEN615/HW7/" "/Users/stille/GitHub/Homeworks/ECEN615/HW6/" "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/" "/Users/stille/GitHub/LaTeX-Template/notes/" "/Users/stille/GitHub/Homeworks/ECEN615/HW5/" "/Users/stille/GitHub/LaTeX-Template/assignment/" "/Users/stille/GitHub/HW_LaTeX_Template/" "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/" "/Users/stille/GitHub/Homeworks/ECEN615/HW2/" "/Users/stille/Dropbox/FX/" "/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" "/Users/stille/Documents/dede/" "/Users/stille/Documents/Code/BS-Learning/DR/" "/Users/stille/Documents/Code/BS-Learning/" "/Users/stille/Documents/Code/" "/Users/stille/Documents/Courses/ECEN615/HW1/"))
+(setq ido-work-file-list '("overview-storage.tex" "Academic.html" "default.html" "post.html" "index.html" "2014-03-06-Reading-List.md" "2011-06-04-‘ÉË‘ÐÄ‘Õß.md" "list.md" "2014-02-Storage-Overview.tex" "slides-template-empty.tex"))
+(setq grep-history nil)
+(setq compile-history '("make -k "))
+(setq minibuffer-history '("Notes" "Future Work" "Conclusion" "section" "sec:" "Island Systems" "sec:" "Market Models" "sec:" "Energy System Models" "subsection" "sec:" "hybrid system" "sec:" "price taker without perfect forecast" "price taker" "subsection" "sec:" "System Model" "sec:" "Engineering Model" "h" "Service Mutualisation" "Hybrid System" "Engineering Model" "subsection" "Network Model" "Energy System Model" "subsubsection" "Overview of A Review"))
+(setq query-replace-history '("emph" "textcolor{blue}"))
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq search-ring '("DSM" "PSH" "counterpoint" "gar" "yuceka" "virtual" "perez" "PBUC" "agent" "stad" "$$" "}" "to" "\\" "table"))
+(setq comint-input-ring nil)
+(setq shell-command-history nil)
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq register-alist '((48 . "")))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/overview-storage/overview-storage.tex"
+  "overview-storage.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  49684
+  '(50362 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/Academic.html"
+  "Academic.html"
+  'html-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode rainbow-mode mmm-mode)
+  239
+  '(239 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/_layouts/default.html"
+  "default.html"
+  'html-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode rainbow-mode mmm-mode)
+  1271
+  '(1078 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/_posts/2014-03-06-Reading-List.md"
+  "2014-03-06-Reading-List.md"
+  'markdown-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  366
+  '(1 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/about/index.html"
+  "index.html"
+  'html-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode rainbow-mode mmm-mode)
+  392
+  '(138 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/_layouts/post.html"
+  "post.html"
+  'html-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode rainbow-mode mmm-mode)
+  323
+  '(323 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/_posts/2011-06-04-‘ÉË‘ÐÄ‘Õß.md"
+  "2011-06-04-‘ÉË‘ÐÄ‘Õß.md"
+  'markdown-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  138
+  '(140 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Academic/list.md"
+  "list.md"
+  'markdown-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  1184
+  '(1125 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex"
+  "2014-02-Storage-Overview.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  2536
+  '(1795 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex"
+  "slides-template-empty.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  838
+  '(2184 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX/Templates/presentation/slides-template.tex"
+  "slides-template.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  2999
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/index.html"
+  "index.html"
+  'html-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode rainbow-mode mmm-mode)
+  104
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/xinbogeng.github.com/_config.yml"
+  "_config.yml"
+  'yaml-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  64
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/CSEN420/PA1/PA1.py"
+  "PA1.py"
+  'python-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode goto-address-prog-mode paredit-everywhere-mode)
+  500
+  '(985 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex"
+  "Paper-Analysis-Design.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  1016
+  '(3644 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Lacrimarum.github.io/_config.yml"
+  "_config.yml"
+  'yaml-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  44
+  '(59 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex"
+  "report.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  17324
+  '(17723 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex"
+  "Reference.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  255
+  '(292 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/Slides_Power_Reading.org"
+  "Slides_Power_Reading.org"
+  'org-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode page-break-lines-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode org-beamer-mode)
+  806
+  '(491 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/aonto.org"
+  "aonto.org"
+  'org-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode page-break-lines-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  5
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW2/HW2.tex"
+  "HW2.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  11197
+  '(4762 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN689/HW3/HW3.tex"
+  "HW3.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  3466
+  '(985 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW7/HW7.tex"
+  "HW7.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  1060
+  '(1023 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/ERCOT-Mrkt-Rules/Forecast.org"
+  "Forecast.org"
+  'org-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode page-break-lines-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  76
+  '(30 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW7/title.tex"
+  "title.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  574
+  '(576 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Google ‘ÔÆ‘¶Ë‘Ó²‘ÅÌ/Research/DR_ED/Frontmatter.log"
+  "Frontmatter.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  706
+  '(610 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW6/title.tex"
+  "title.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  314
+  '(555 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex"
+  "Review-CIDR.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  3588
+  '(3722 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX-Template/notes/Note-Template.tex"
+  "Note-Template.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  1845
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex"
+  "Frontmatter.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  921
+  '(1282 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex"
+  "Reference.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX-Template/notes/content.tex"
+  "content.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  65
+  '(254 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX-Template/notes/Reference.tex"
+  "Reference.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  778
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX-Template/notes/Frontmatter.tex"
+  "Frontmatter.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  195
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/LaTeX-Template/assignment/assignment.tex"
+  "assignment.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  2100
+  '(1191 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW5/HW5.aux"
+  "HW5.aux"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  2082
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW5/title.tex"
+  "title.tex"
+  'plain-tex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  863
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex"
+  "Oct-8.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  7621
+  '(6864 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib"
+  "INDEX.bib"
+  'bibtex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (TeX-master . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW4/HW4.tex"
+  "HW4.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  4729
+  '(4844 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW_2/HW2.tex"
+  "HW2.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  3111
+  '(4463 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  nil
+  "*info*"
+  'Info-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode)
+  73239
+  '(3920 nil)
+  t
+  '("/usr/local/share/info/auctex" "Equations" ((history ("/usr/local/share/info/auctex" "Environments" 72669) ("/usr/local/share/info/auctex" "Top" 3920))))
+  '((tab-width . 8) (buffer-file-coding-system . undecided-unix) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux"
+  "Oct-8.aux"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  3967
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/DRNotes.tex"
+  "DRNotes.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  4154
+  '(1448 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/DRNotes.log"
+  "DRNotes.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  17307
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . raw-text-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/_region_.tex"
+  "_region_.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  21130
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log"
+  "Oct-8.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  107
+  '(11776 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW4/HW4.log"
+  "HW4.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  9
+  '(9 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/HW5/HW5.log"
+  "HW5.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  9
+  '(9 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/Slides_Power_Reading.tex"
+  "Slides_Power_Reading.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log"
+  "beamer.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  57729
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/org-beamer-master/test.tex"
+  "test.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Research/Presentations/aonto.tex"
+  "aonto.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log"
+  "report.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  9
+  '(10052 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/GitHub/Homeworks/ECEN615/Final/frequency.log"
+  "frequency.log"
+  'fundamental-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode flycheck-mode)
+  103
+  '(1 nil)
+  t
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
