@@ -2,38 +2,137 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Mon Mar 17 20:03:38 2014
+;; Created Fri Jul 11 14:00:09 2014
 ;; Desktop file format version 206
 ;; Emacs version 24.3.1
 
 ;; Global section:
 (setq extended-command-history nil)
-(setq file-name-history '("~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex" "~/GitHub/Lacrimarum.github.io/_config.yml" "~/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex" "~/GitHub/CSEN420/PA1/PA1.py" "~/GitHub/xinbogeng.github.com/_config.yml" "~/GitHub/xinbogeng.github.com/index.html" "~/GitHub/LaTeX/Templates/presentation/slides-template.tex" "~/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex" "~/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex" "~/GitHub/Academic/list.md" "~/GitHub/xinbogeng.github.com/_posts/2011-06-04-ë…Àë–ƒë’ﬂ.md" "~/GitHub/xinbogeng.github.com/_layouts/post.html" "~/GitHub/xinbogeng.github.com/about/index.html" "~/GitHub/xinbogeng.github.com/_posts/2014-03-06-Reading-List.md" "~/GitHub/xinbogeng.github.com/_layouts/default.html" "~/GitHub/xinbogeng.github.com/Academic.html" "~/Bitbucket/Research-Notes/overview-storage/overview-storage.tex" "~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex" "~/GitHub/Lacrimarum.github.io/_config.yml" "~/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex" "~/GitHub/CSEN420/PA1/PA1.py" "~/GitHub/xinbogeng.github.com/_config.yml" "~/GitHub/xinbogeng.github.com/index.html" "~/GitHub/LaTeX/Templates/presentation/slides-template.tex" "~/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex" "~/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex"))
-(setq ido-last-directory-list '(("/Users/stille/Bitbucket/Research-Notes/" . "overview-storage/") ("/Users/stille/GitHub/xinbogeng.github.com/" . "_layouts/") ("/Users/stille/GitHub/Academic/" . "2014-02-Storage-Overview/") ("/Users/stille/GitHub/CSEN420/" . "PA1/") ("/Users/stille/Bitbucket/Paper-Analysis/Docs/" . "Design/") ("/Users/stille/Bitbucket/Paper-Analysis/" . "Docs/") ("/Users/stille/Bitbucket/" . "Research-Notes/") ("/Users/stille/GitHub/Homeworks/ECEN689/" . "Report/") ("/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/" . "Documents/") ("/Users/stille/GitHub/Research/Presentations/" . "org-beamer-master/") ("/Users/stille/GitHub/Research/" . "Presentations/") ("/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/" . "ERCOT-Mrkt-Rules/") ("/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/" . "Research/") ("/Users/stille/GitHub/Demand Response/Notes/" . "Meeting on 2013-Oct-8/") ("/Users/stille/GitHub/Demand Response/" . "Notes/") ("/Users/stille/GitHub/Homeworks/ECEN615/" . "Final/") ("/Users/stille/GitHub/Homeworks/" . "ECEN615/") ("/Users/stille/Dropbox/" . "FX/") ("/Users/stille/" . "Bitbucket/") ("/Users/stille/GitHub/LaTeX-Template/" . "assignment/") ("/Users/stille/GitHub/" . "xinbogeng.github.com/") ("/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/HW2/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/" . "HW2/") ("/Users/stille/Documents/Code/BS-Learning/" . "DR/") ("/Users/stille/Documents/Code/" . "BS-Learning/") ("/Users/stille/Documents/Courses/ECEN615/" . "HW1/") ("/Users/stille/Documents/Courses/" . "ECEN689/") ("/Users/stille/Documents/" . "Courses/") ("/" . "home/")))
-(setq ido-work-directory-list '("/Users/stille/Bitbucket/Research-Notes/overview-storage/" "/Users/stille/GitHub/xinbogeng.github.com/" "/Users/stille/GitHub/xinbogeng.github.com/_layouts/" "/Users/stille/GitHub/xinbogeng.github.com/about/" "/Users/stille/GitHub/xinbogeng.github.com/_posts/" "/Users/stille/GitHub/Academic/" "/Users/stille/GitHub/Academic/2014-02-Storage-Overview/" "/Users/stille/GitHub/LaTeX/Templates/presentation/" "/Users/stille/GitHub/CSEN420/PA1/" "/Users/stille/Bitbucket/Paper-Analysis/Docs/Design/" "/Users/stille/GitHub/Homeworks/ECEN615/Final/" "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/" "/Users/stille/GitHub/Homeworks/ECEN689/Report/" "/Users/stille/GitHub/Research/Presentations/" "/Users/stille/GitHub/Research/Presentations/org-beamer-master/" "/Users/stille/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/" "/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/" "/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/" "/Users/stille/GitHub/Homeworks/ECEN615/HW7/" "/Users/stille/GitHub/Homeworks/ECEN615/HW6/" "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/" "/Users/stille/GitHub/LaTeX-Template/notes/" "/Users/stille/GitHub/Homeworks/ECEN615/HW5/" "/Users/stille/GitHub/LaTeX-Template/assignment/" "/Users/stille/GitHub/HW_LaTeX_Template/" "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/" "/Users/stille/GitHub/Homeworks/ECEN615/HW2/" "/Users/stille/Dropbox/FX/" "/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" "/Users/stille/Documents/dede/" "/Users/stille/Documents/Code/BS-Learning/DR/" "/Users/stille/Documents/Code/BS-Learning/" "/Users/stille/Documents/Code/" "/Users/stille/Documents/Courses/ECEN615/HW1/"))
-(setq ido-work-file-list '("overview-storage.tex" "Academic.html" "default.html" "post.html" "index.html" "2014-03-06-Reading-List.md" "2011-06-04-ë…Àë–ƒë’ﬂ.md" "list.md" "2014-02-Storage-Overview.tex" "slides-template-empty.tex"))
+(setq file-name-history '("~/Desktop/Poster/XinboGengPoster.tex" "~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex" "~/GitHub/Lacrimarum.github.io/_config.yml" "~/Bitbucket/Paper-Analysis/Docs/Design/Paper-Analysis-Design.tex" "~/GitHub/CSEN420/PA1/PA1.py" "~/GitHub/xinbogeng.github.com/_config.yml" "~/GitHub/xinbogeng.github.com/index.html" "~/GitHub/LaTeX/Templates/presentation/slides-template.tex" "~/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex" "~/GitHub/Academic/list.md" "~/GitHub/xinbogeng.github.com/_posts/2011-06-04-ë…Àë–ƒë’ﬂ.md" "~/GitHub/xinbogeng.github.com/_layouts/post.html" "~/GitHub/xinbogeng.github.com/about/index.html" "~/GitHub/xinbogeng.github.com/_posts/2014-03-06-Reading-List.md" "~/GitHub/xinbogeng.github.com/_layouts/default.html" "~/GitHub/xinbogeng.github.com/Academic.html" "~/Bitbucket/Research-Notes/overview-storage/overview-storage.tex" "~/Pictures/ë‘”/ëÀøëÕ‡ë–¥ë’Ê/HRQ0099P Black Highleg ùˆπÎë•œë•§ë•Ïë•ØúÚæ˘ëÃÿëºØÅ† [BWH] [119P] ë≤›ë¡Òë…ÁïŸ¥ - powered by phpwind.net_files/style.css" "~/Bitbucket/Research-Notes/Some-thoughts/2014-04-20/2014-Apr-20.tex" "~/Bitbucket/Research-Notes/multi-agent-energy-coupon/Apr-29-Slides/2014-Apr-20.tex" "~/Bitbucket/Research-Notes/multi-agent-energy-coupon/multi-agent-energy-coupon.tex" "~/Bitbucket/EnergyCouponSimulator/report/bare_conf.tex" "~/Bitbucket/Research-Notes/UserBehaviourAnalysis/01 2014-05-12/report.tex" "~/Bitbucket/Research-Notes/UserBehaviourAnalysis/02 2014-05-19/20140519.tex" "~/Bitbucket/Research-Notes/PosterCode/Poster/XinboGengPoster.tex" "~/GitHub/Homeworks/ECEN615/Final/frequency.log" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.log" "~/GitHub/Research/Presentations/aonto.tex" "~/GitHub/Research/Presentations/org-beamer-master/test.tex" "~/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/beamer.log" "~/GitHub/Research/Presentations/Slides_Power_Reading.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.log" "~/GitHub/Homeworks/ECEN615/HW4/HW4.log" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.log" "~/GitHub/Demand Response/Notes/_region_.tex" "~/GitHub/Demand Response/Notes/DRNotes.log" "~/GitHub/Demand Response/Notes/DRNotes.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.aux" "~/GitHub/Homeworks/ECEN615/HW_2/HW2.tex" "~/GitHub/Homeworks/ECEN615/HW4/HW4.tex" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/INDEX.bib" "~/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/Oct-8.tex" "~/GitHub/Homeworks/ECEN615/HW5/title.tex" "~/GitHub/Homeworks/ECEN615/HW5/HW5.aux" "~/GitHub/LaTeX-Template/assignment/assignment.tex" "~/GitHub/LaTeX-Template/notes/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Reference.tex" "~/GitHub/LaTeX-Template/notes/content.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Reference.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Frontmatter.tex" "~/GitHub/LaTeX-Template/notes/Note-Template.tex" "~/Documents/Research/Demand Response/CIDR/01 Review of CIDR/Review-CIDR.tex" "~/GitHub/Homeworks/ECEN615/HW6/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/Frontmatter.log" "~/GitHub/Homeworks/ECEN615/HW7/title.tex" "~/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/Forecast.org" "~/GitHub/Homeworks/ECEN615/HW7/HW7.tex" "~/GitHub/Homeworks/ECEN689/HW3/HW3.tex" "~/GitHub/Homeworks/ECEN615/HW2/HW2.tex" "~/GitHub/Research/Presentations/aonto.org" "~/GitHub/Research/Presentations/Slides_Power_Reading.org" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/Reference.tex" "~/GitHub/Homeworks/ECEN615/PowerFlow/Documents/report.tex"))
+(setq ido-last-directory-list '(("/Users/stille/Bitbucket/Research-Notes/UserBehaviourAnalysis/" . "01 2014-05-12/") ("/Users/stille/Bitbucket/Research-Notes/multi-agent-energy-coupon/" . "Apr-29-Slides/") ("/Users/stille/Bitbucket/Research-Notes/Some-thoughts/" . "2014-04-20/") ("/Users/stille/Bitbucket/Research-Notes/" . "UserBehaviourAnalysis/") ("/Users/stille/GitHub/xinbogeng.github.com/" . "_layouts/") ("/Users/stille/GitHub/Academic/" . "2014-02-Storage-Overview/") ("/Users/stille/GitHub/CSEN420/" . "PA1/") ("/Users/stille/Bitbucket/Paper-Analysis/Docs/" . "Design/") ("/Users/stille/Bitbucket/Paper-Analysis/" . "Docs/") ("/Users/stille/Bitbucket/" . "Research-Notes/") ("/Users/stille/GitHub/Homeworks/ECEN689/" . "Report/") ("/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/" . "Documents/") ("/Users/stille/GitHub/Research/Presentations/" . "org-beamer-master/") ("/Users/stille/GitHub/Research/" . "Presentations/") ("/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/" . "ERCOT-Mrkt-Rules/") ("/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/" . "Research/") ("/Users/stille/GitHub/Demand Response/Notes/" . "Meeting on 2013-Oct-8/") ("/Users/stille/GitHub/Demand Response/" . "Notes/") ("/Users/stille/GitHub/Homeworks/ECEN615/" . "Final/") ("/Users/stille/GitHub/Homeworks/" . "ECEN615/") ("/Users/stille/Dropbox/" . "FX/") ("/Users/stille/" . "GitHub/") ("/Users/stille/GitHub/LaTeX-Template/" . "assignment/") ("/Users/stille/GitHub/" . "Academic/") ("/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/HW2/" . "Simplex/") ("/Users/stille/Documents/Courses/ECEN689/" . "HW2/") ("/Users/stille/Documents/Code/BS-Learning/" . "DR/") ("/Users/stille/Documents/Code/" . "BS-Learning/") ("/Users/stille/Documents/Courses/ECEN615/" . "HW1/") ("/Users/stille/Documents/Courses/" . "ECEN689/") ("/Users/stille/Documents/" . "Courses/") ("/" . "home/")))
+(setq ido-work-directory-list '("/Users/stille/Bitbucket/Research-Notes/UserBehaviourAnalysis/01 2014-05-12/" "/Users/stille/Bitbucket/Research-Notes/multi-agent-energy-coupon/Apr-29-Slides/" "/Users/stille/Bitbucket/Research-Notes/Some-thoughts/2014-04-20/" "/Users/stille/GitHub/Academic/2014-04-16-Storage-Overview 2/" "/Users/stille/GitHub/Review-Forms/" "/Users/stille/Bitbucket/Research-Notes/overview-storage/" "/Users/stille/GitHub/xinbogeng.github.com/" "/Users/stille/GitHub/xinbogeng.github.com/_layouts/" "/Users/stille/GitHub/xinbogeng.github.com/about/" "/Users/stille/GitHub/xinbogeng.github.com/_posts/" "/Users/stille/GitHub/Academic/" "/Users/stille/GitHub/Academic/2014-02-Storage-Overview/" "/Users/stille/GitHub/LaTeX/Templates/presentation/" "/Users/stille/GitHub/CSEN420/PA1/" "/Users/stille/Bitbucket/Paper-Analysis/Docs/Design/" "/Users/stille/GitHub/Homeworks/ECEN615/Final/" "/Users/stille/GitHub/Homeworks/ECEN615/PowerFlow/Documents/" "/Users/stille/GitHub/Homeworks/ECEN689/Report/" "/Users/stille/GitHub/Research/Presentations/" "/Users/stille/GitHub/Research/Presentations/org-beamer-master/" "/Users/stille/GitHub/Research/Presentations/wzpan-org-beamer-cn-e5b5173/" "/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/DR_ED/" "/Users/stille/Google ë‘∆ë∂Àë”≤ë≈Ã/Research/ERCOT-Mrkt-Rules/" "/Users/stille/GitHub/Homeworks/ECEN615/HW7/" "/Users/stille/GitHub/Homeworks/ECEN615/HW6/" "/Users/stille/Documents/Research/Demand Response/CIDR/01 Review of CIDR/" "/Users/stille/GitHub/LaTeX-Template/notes/" "/Users/stille/GitHub/Homeworks/ECEN615/HW5/" "/Users/stille/GitHub/LaTeX-Template/assignment/" "/Users/stille/GitHub/HW_LaTeX_Template/" "/Users/stille/GitHub/Demand Response/Notes/Meeting on 2013-Oct-8/" "/Users/stille/GitHub/Homeworks/ECEN615/HW2/" "/Users/stille/Dropbox/FX/" "/Users/stille/Documents/Courses/ECEN689/HW2/Simplex/" "/Users/stille/Documents/dede/" "/Users/stille/Documents/Code/BS-Learning/DR/" "/Users/stille/Documents/Code/BS-Learning/" "/Users/stille/Documents/Code/" "/Users/stille/Documents/Courses/ECEN615/HW1/"))
+(setq ido-work-file-list '("report.tex" "2014-Apr-20.tex" "2014-02-Storage-Overview-part-2.tex" "2014-02-Storage-Overview.tex" "00-template-review-form.md" "overview-storage.tex" "Academic.html" "default.html" "post.html" "index.html"))
 (setq grep-history nil)
 (setq compile-history '("make -k "))
-(setq minibuffer-history '("Notes" "Future Work" "Conclusion" "section" "sec:" "Island Systems" "sec:" "Market Models" "sec:" "Energy System Models" "subsection" "sec:" "hybrid system" "sec:" "price taker without perfect forecast" "price taker" "subsection" "sec:" "System Model" "sec:" "Engineering Model" "h" "Service Mutualisation" "Hybrid System" "Engineering Model" "subsection" "Network Model" "Energy System Model" "subsubsection" "Overview of A Review"))
+(setq minibuffer-history '("evince XinboGengPoster.pdf" "shell" "Logic Flow" "How the User Make decisions" "Comfort Zone and Discomfortableness" "subsection" "User Model" "Load Patterns" "section" "fig:consumptionSunday" "Sunday Consumption" "htbp" "More Work" "sec:" "Bad Results" "sec:" "Good Results" "Notations" "subsection" "Summary" "Model Description" "subsubsection" "Simulation Results" "Baseline Based Price-Load Relationship" "subsection" "sec:" "New Model" "section" "Model Description" "subsection"))
 (setq query-replace-history '("emph" "textcolor{blue}"))
 (setq read-expression-history nil)
 (setq regexp-history nil)
 (setq regexp-search-ring nil)
-(setq search-ring '("DSM" "PSH" "counterpoint" "gar" "yuceka" "virtual" "perez" "PBUC" "agent" "stad" "$$" "}" "to" "\\" "table"))
+(setq search-ring '("based" "{}" "symp" "graphic" "structure" "png" "DSM" "PSH" "counterpoint" "gar" "yuceka" "virtual" "perez" "PBUC" "agent" "stad"))
 (setq comint-input-ring nil)
 (setq shell-command-history nil)
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
-(setq register-alist '((48 . "")))
+(setq register-alist '((48 . "answering questions about Java and building user and LSE models.")))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/stille/Desktop/Poster/XinboGengPoster.tex"
+  "XinboGengPoster.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  10725
+  '(3187 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/PosterCode/Poster/XinboGengPoster.tex"
+  "XinboGengPoster.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  11887
+  '(10443 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/UserBehaviourAnalysis/02 2014-05-19/20140519.tex"
+  "20140519.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  3387
+  '(1948 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/UserBehaviourAnalysis/01 2014-05-12/report.tex"
+  "report.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  4374
+  '(2786 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/EnergyCouponSimulator/report/bare_conf.tex"
+  "bare_conf.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  36283
+  '(29703 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-dos) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/multi-agent-energy-coupon/multi-agent-energy-coupon.tex"
+  "multi-agent-energy-coupon.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  2657
+  '(7393 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/multi-agent-energy-coupon/Apr-29-Slides/2014-Apr-20.tex"
+  "2014-Apr-20.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  3584
+  '(4154 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Bitbucket/Research-Notes/Some-thoughts/2014-04-20/2014-Apr-20.tex"
+  "2014-Apr-20.tex"
+  'latex-mode
+  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
+  3413
+  '(1001 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode) (case-fold-search . t)))
+
+(desktop-create-buffer 206
+  "/Users/stille/Pictures/ë‘”/ëÀøëÕ‡ë–¥ë’Ê/HRQ0099P Black Highleg ùˆπÎë•œë•§ë•Ïë•ØúÚæ˘ëÃÿëºØÅ† [BWH] [119P] ë≤›ë¡Òë…ÁïŸ¥ - powered by phpwind.net_files/style.css"
+  "style.css"
+  'css-mode
+  '(auto-complete-mode global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode eldoc-mode rainbow-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos)))
+
 (desktop-create-buffer 206
   "/Users/stille/Bitbucket/Research-Notes/overview-storage/overview-storage.tex"
   "overview-storage.tex"
   'latex-mode
   '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
-  49684
-  '(50362 nil)
+  550
+  '(50442 nil)
   nil
   nil
   '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
@@ -114,17 +213,6 @@
   nil
   nil
   '((tab-width . 4) (buffer-file-coding-system . utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/Users/stille/GitHub/Academic/2014-02-Storage-Overview/2014-02-Storage-Overview.tex"
-  "2014-02-Storage-Overview.tex"
-  'latex-mode
-  '(global-auto-revert-mode undo-tree-mode pointback-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode TeX-PDF-mode flycheck-mode)
-  2536
-  '(1795 nil)
-  nil
-  nil
-  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix) (overwrite-mode) (case-fold-search . t)))
 
 (desktop-create-buffer 206
   "/Users/stille/GitHub/LaTeX/Templates/presentation/slides-template-empty.tex"
